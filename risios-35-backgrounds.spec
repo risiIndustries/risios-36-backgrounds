@@ -25,5 +25,5 @@ cp -R * %{_datadir}/backgrounds/risios-35/
 %{_datadir}/backgrounds/risios-35/*
 	
 %changelog
-* Fri Jan 9 2022 PizzaLovingNerd
+* Sun Jan 9 2022 PizzaLovingNerd
 - risiOS 35 Wallpapers
