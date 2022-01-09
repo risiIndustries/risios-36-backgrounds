@@ -8,6 +8,6 @@ Wallpapers for risiOS (note wallpaper names in risiOS maybe different from what 
 
 "Mountains" by grossgasteiger (https://unsplash.com/photos/NRW0J_Zm38M)
 
-"Space Needle" by Meriç Dağlı (https://unsplash.com/photos/iI1lCGfgeP0)
+"Space Needle" by Meriç Dağlı (https://unsplash.com/photos/iI1lCGfgeP0) (was cropped to 16:9)
 
 
