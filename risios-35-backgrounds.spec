@@ -19,7 +19,6 @@ Wallpapers for risiOS
 %install
 %dir %{_datadir}/backgrounds/risios-35/
 cp -R * %{_datadir}/backgrounds/risios-35/
-cp -R * %{_datadir}/backgrounds/risios-35/
 
 %files
 %{_datadir}/backgrounds/risios-35/*
