@@ -17,11 +17,11 @@ Wallpapers for risiOS
 %build
 
 %install
-mkdir -p %{_datadir}/backgrounds/risios-35/
-cp -R * %{_datadir}/backgrounds/risios-35/
+mkdir -p %{buildroot}/backgrounds/risios-35/
+cp -R * %{buildroot}/backgrounds/risios-35/
 
 %files
-%{_datadir}/backgrounds/risios-35/*
+%{buildroot}/backgrounds/risios-35/*
 
 %changelog
 * Sun Jan 9 2022 PizzaLovingNerd
