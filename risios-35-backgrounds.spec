@@ -17,8 +17,8 @@ Wallpapers for risiOS
 %build
 
 %install
-mkdir -p %{buildroot}/backgrounds/risios-35/
-cp -R * %{buildroot}/backgrounds/risios-35/
+mkdir -p %{buildroot}%{_datadir}/backgrounds/risios-35/
+cp -R * %{buildroot}%{_datadir}/backgrounds/risios-35/
 
 %files
 %{buildroot}/backgrounds/risios-35/*
