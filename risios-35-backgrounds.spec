@@ -21,7 +21,7 @@ mkdir -p %{buildroot}%{_datadir}/backgrounds/risios-35/
 cp -R * %{buildroot}%{_datadir}/backgrounds/risios-35/
 
 %files
-%{buildroot}/backgrounds/risios-35/*
+%{_datadir}/backgrounds/risios-35/*
 
 %changelog
 * Sun Jan 9 2022 PizzaLovingNerd
