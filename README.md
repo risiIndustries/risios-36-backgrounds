@@ -10,4 +10,4 @@ Wallpapers for risiOS (note wallpaper names in risiOS maybe different from what 
 
 "Space Needle" by Meriç Dağlı (https://unsplash.com/photos/iI1lCGfgeP0) (was cropped to 16:9)
 
-
+"Blue Swirl" by TheBaconPug/Funny Lasagna Cat
