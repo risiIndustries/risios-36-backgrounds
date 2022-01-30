@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>Birb</name>
+        <filename>/usr/share/backgrounds/risios-35/Birb.jpg </filename>
+        <options>zoom</options>
+        <author>Martijn Braam</author>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Dark Camo</name>
+        <filename>/usr/share/backgrounds/risios-35/DarkCamo.jpg </filename>
+        <options>zoom</options>
+        <author>PizzaLovingNerd</author>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Default</name>
+        <filename>/usr/share/backgrounds/risios-35/Default.jpg </filename>
+        <options>zoom</options>
+        <author>PizzaLovingNerd</author>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Jellyfish</name>
+        <filename>/usr/share/backgrounds/risios-35/Jellyfish.jpg </filename>
+        <options>zoom</options>
+        <author>David Dvoracek</author>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Mountains</name>
+        <filename>/usr/share/backgrounds/risios-35/Mountains.jpg </filename>
+        <options>zoom</options>
+        <author>grossgasteiger</author>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Space Needle</name>
+        <filename>/usr/share/backgrounds/risios-35/Space-Needle.jpg </filename>
+        <options>zoom</options>
+        <author>Meriç Dağlı</author>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Blue Swirl</name>
+        <filename>/usr/share/backgrounds/risios-35/blueswirl.png </filename>
+        <options>zoom</options>
+        <author>TheBaconPug</author>
+    </wallpaper>
+</wallpapers>
