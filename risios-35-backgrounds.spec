@@ -25,7 +25,6 @@ cp risios-35-backgrounds.xml %{buildroot}%{_datadir}/gnome-background-properties
 
 %files
 %{_datadir}/backgrounds/risios-35-backgrounds/*
-
 %{_datadir}/gnome-background-properties/risios-35-backgrounds.xml
 
 %changelog
