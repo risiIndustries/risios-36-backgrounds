@@ -24,7 +24,8 @@ mkdir -p %{buildroot}%{_datadir}/gnome-background-properties
 cp risios-35-backgrounds.xml %{buildroot}%{_datadir}/gnome-background-properties/risios-35-backgrounds.xml
 
 %files
-%{_datadir}/backgrounds/risios-35/*
+%{_datadir}/backgrounds/risios-35-backgrounds/*
+
 %{_datadir}/gnome-background-properties/risios-35-backgrounds.xml
 
 %changelog
