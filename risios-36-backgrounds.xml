@@ -3,44 +3,56 @@
 <wallpapers>
     <wallpaper deleted="false">
         <name>Birb</name>
-        <filename>/usr/share/backgrounds/risios-35-backgrounds/Birb.jpg </filename>
+        <filename>/usr/share/backgrounds/risios-36-backgrounds/Birb.jpg </filename>
         <options>zoom</options>
         <author>Martijn Braam</author>
     </wallpaper>
     <wallpaper deleted="false">
         <name>Dark Camo</name>
-        <filename>/usr/share/backgrounds/risios-35-backgrounds/DarkCamo.png </filename>
+        <filename>/usr/share/backgrounds/risios-36-backgrounds/DarkCamo.png </filename>
         <options>zoom</options>
         <author>PizzaLovingNerd</author>
     </wallpaper>
     <wallpaper deleted="false">
         <name>Default</name>
-        <filename>/usr/share/backgrounds/risios-35-backgrounds/Default.png </filename>
+        <filename>/usr/share/backgrounds/risios-36-backgrounds/Default.png </filename>
         <options>zoom</options>
         <author>PizzaLovingNerd</author>
     </wallpaper>
     <wallpaper deleted="false">
         <name>Jellyfish</name>
-        <filename>/usr/share/backgrounds/risios-35-backgrounds/Jellyfish.jpg </filename>
+        <filename>/usr/share/backgrounds/risios-36-backgrounds/Jellyfish.jpg </filename>
         <options>zoom</options>
         <author>David Dvoracek</author>
     </wallpaper>
     <wallpaper deleted="false">
         <name>Mountains</name>
-        <filename>/usr/share/backgrounds/risios-35-backgrounds/Mountains.jpg </filename>
+        <filename>/usr/share/backgrounds/risios-36-backgrounds/Mountains.jpg </filename>
         <options>zoom</options>
         <author>grossgasteiger</author>
     </wallpaper>
     <wallpaper deleted="false">
         <name>Space Needle</name>
-        <filename>/usr/share/backgrounds/risios-35-backgrounds/Space-Needle.jpg </filename>
+        <filename>/usr/share/backgrounds/risios-36-backgrounds/Space-Needle.jpg </filename>
         <options>zoom</options>
         <author>Meriç Dağlı</author>
     </wallpaper>
     <wallpaper deleted="false">
         <name>Blue Swirl</name>
-        <filename>/usr/share/backgrounds/risios-35-backgrounds/blueswirl.png </filename>
+        <filename>/usr/share/backgrounds/risios-36-backgrounds/blueswirl.png </filename>
         <options>zoom</options>
         <author>TheBaconPug</author>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Leaves</name>
+        <filename>/usr/share/backgrounds/risios-36-backgrounds/Leaves.png </filename>
+        <options>zoom</options>
+        <author>Dids</author>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Leaves</name>
+        <filename>/usr/share/backgrounds/risios-36-backgrounds/Canyon.png </filename>
+        <options>zoom</options>
+        <author>Paul IJsendoorn</author>
     </wallpaper>
 </wallpapers>

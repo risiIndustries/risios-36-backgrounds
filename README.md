@@ -11,3 +11,7 @@ Wallpapers for risiOS (note wallpaper names in risiOS maybe different from what 
 "Space Needle" by Meriç Dağlı (https://unsplash.com/photos/iI1lCGfgeP0) (was cropped to 16:9)
 
 "Blue Swirl" by @TheBaconPug
+
+"Leaves" taken by Dids (https://www.pexels.com/photo/red-and-green-leaf-plants-3306986/)
+
+"Canyon" taken by Paul IJsendoorn (https://www.pexels.com/photo/antelope-canyon-33041/)
