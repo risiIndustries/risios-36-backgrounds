@@ -1,6 +1,6 @@
 Name:		risios-36-backgrounds
 Version:	0.1
-Release:	5%{?dist}
+Release:	6%{?dist}
 Summary:	Wallpapers for risioS
 
 License:	GPL v3
